@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f03f56b0e966bf419db85ac058f0780, type: 3}
+  m_Name: LevelData_002
+  m_EditorClassIdentifier: 
+  levelID: 2
+  displayName: The Gap
+  levelPrefab: {fileID: 52857456196001815, guid: 63d8a692ded39d841a78a211d4172454, type: 3}
+  ballStartMode: 1
+  drawingEnabled: 1
+  unlimitedDrawing: 1
+  inkLimit: 100
+  maxDrawings: 999
+  gravityDirection: {x: 0, y: -9.81}
+  gravityStrength: 1
+  cameraPosition: {x: 0, y: 0, z: -10}
+  orthographicSize: 10
+  threeStarInk: 10
+  twoStarInk: 20
